@@ -1,0 +1,22 @@
+{
+    "name": "straylightagency/majestic-cogent",
+    "description": "Handle WordPress object using Laravel Eloquent",
+    "type": "lib",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Pauwels",
+            "email": "anthony@straylightagency.be",
+            "homepage": "https://straylightagency.be/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Daedelus\\": "/src/Daedelus"
+        }
+    }
+}
