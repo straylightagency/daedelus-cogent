@@ -1,5 +1,5 @@
 {
-    "name": "straylightagency/majestic-cogent",
+    "name": "daedelus/cogent",
     "description": "Handle WordPress object using Laravel Eloquent",
     "type": "lib",
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Daedelus\\": "/src/Daedelus"
+            "Daedelus\\Cogent\\": "/"
         }
     }
 }
